@@ -3,6 +3,21 @@ img {
 	width: 200px;
 }
 
+#link1 {
+	height: 4%;
+	width: 4%;
+}
+
+#link2 {
+	height: 10%;
+	width: 10%;
+}
+
+#link3 {
+	height: 5%;
+	width: 5%;
+}
+
 footer a {
 	display: block;
 }
